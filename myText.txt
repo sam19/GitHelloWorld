@@ -1,2 +1,0 @@
-Mais qui ce fait cette page dans ce nouveau fichier ?
-Et ce que c’est possible que Git trouvera ces modifications ?
